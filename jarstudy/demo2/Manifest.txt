@@ -1,0 +1,2 @@
+Main-class: Main
+Class-path: lib/demo1.jar
